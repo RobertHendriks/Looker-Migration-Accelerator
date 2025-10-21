@@ -1,2 +1,0 @@
-# Looker-Migration-Accelerator
-Demo
